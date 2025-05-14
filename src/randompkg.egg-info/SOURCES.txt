@@ -1,0 +1,15 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/randompkg/MYProbability.py
+src/randompkg/MYRandom.py
+src/randompkg/MYpRNG.py
+src/randompkg/__init__.py
+src/randompkg.egg-info/PKG-INFO
+src/randompkg.egg-info/SOURCES.txt
+src/randompkg.egg-info/dependency_links.txt
+src/randompkg.egg-info/top_level.txt
+tests/testMYProbability.py
+tests/testMYRandom.py
+tests/testMYpRNG.py

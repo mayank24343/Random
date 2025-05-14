@@ -1,0 +1,48 @@
+Metadata-Version: 2.4
+Name: randompkg
+Version: 1.0.0
+Summary: A simple Python package
+Home-page: https://github.com/mayank24343/Random
+Author: Mayank Yadav
+Author-email: mayank24343@iiitd.ac.in
+License: MIT
+Project-URL: Bug Tracker, https://github.com/mayank24343/Random/issues
+Project-URL: Repository, https://github.com/mayank24343/Random
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Dynamic: license-file
+
+# RandomPkg
+
+`RandomPkg` is a lightweight Python module implementing a custom pseudo-random number generator (PRNG) and a set of common random utilities and probability distributions — perfect for educational use or quick experimentation.
+
+## Features
+
+### Core PRNG
+- Linear Congruential Generator (LCG) with customizable parameters
+- Seed control, reproducibility
+
+### Random Utilities
+- `random()`, `randint()`, `randrange()`
+- `choice()` with and without replacement
+- `shuffle()` and `shufflestring()`
+
+### Probability Distributions
+- Discrete: Bernoulli, Binomial, Geometric, Pascal, Poisson
+- Continuous: Uniform, Gaussian (Normal), Exponential
+
+## Module Structure
+
+- `MYpRNG.py`: Core LCG-based pseudo-random number generator
+- `MYRandom.py`: Utility functions built on top of the PRNG
+- `MYProbability.py`: Probability distributions and random sampling
+
+## Future Work
+
+- Add Documentation for use of functions 
+- Random Colours Generator 
+- Expand on pRNG used 
