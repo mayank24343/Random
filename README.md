@@ -1,6 +1,6 @@
-# RandomPkg
+# randompkg
 
-`RandomPkg` is a lightweight Python module implementing a custom pseudo-random number generator (PRNG) and a set of common random utilities and probability distributions — perfect for educational use or quick experimentation.
+`randompkg` is a lightweight Python module implementing a custom pseudo-random number generator (PRNG) and a set of common random utilities and probability distributions — perfect for educational use or quick experimentation.
 
 ## Features
 
@@ -24,6 +24,9 @@
 - `MYProbability.py`: Probability distributions and random sampling
 
 ## Documentation
+
+## To Import
+`import randompkg`
 
 `MYpRNG.py`
 
