@@ -25,10 +25,10 @@
 
 ## Documentation
 
-## To Import
+### To Import
 `import randompkg`
 
-`MYpRNG.py`
+### MYpRNG.py
 
 | Function           | Description                         |
 | ------------------ | ----------------------------------- |
@@ -38,7 +38,7 @@
 | `setIncrement(i)`  | Set LCG increment                   |
 | `setModulo(m)`     | Set LCG modulo                      |
 
-`MYRandom.py`
+### MYRandom.py
 
 | Function                             | Description                             |
 | ------------------------------------ | --------------------------------------- |
@@ -49,7 +49,7 @@
 | `shuffle(seq)`                       | Shuffle list in-place                   |
 | `shufflestring(string)`              | Return a shuffled version of the string |
 
-`MYProbability.py`
+### MYProbability.py
 
 | Function                | Description                          |
 | ----------------------- | ------------------------------------ |
